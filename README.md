@@ -1,6 +1,6 @@
 **Zadanie 1** Docker
 
-:white_check_mark: 3.0 wymaganie 1 [Link do commita 1]()
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/4438ac05ca976a2549aae0b7a5c839c4c2205133)
 
 :white_check_mark: 3.5 wymaganie 2 [Link do commita2 ]()
 
