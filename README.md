@@ -15,11 +15,11 @@ Kod:
 
 **Zadanie 2** Scala
 
-:white_check_mark: 3.0 wymaganie 1 [Link do commita 1]()
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/d2047b4ceab02af06c36db166a960398bdd645b7)
 
 :white_check_mark: 3.5 wymaganie 2 [Link do commita2 ]()
 
-:white_check_mark: 4.0 wymaganie 3 [Link do commita 3]()
+:x: 4.0 wymaganie 3 [Link do commita 3]()
 
 :x: 4.5 wymaganie 4 [Link do commita 4]()
 
