@@ -17,7 +17,7 @@ Kod:
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/d2047b4ceab02af06c36db166a960398bdd645b7)
 
-:white_check_mark: 3.5 wymaganie 2 [Link do commita2 ]()
+:white_check_mark: 3.5 wymaganie 2 [Link do commita2 ](https://github.com/OpalinskiJakub/EBIZNES/commit/df0866fb0f839e8d9c4fd0e4d9b641a9ad5be199)
 
 :x: 4.0 wymaganie 3 [Link do commita 3]()
 
