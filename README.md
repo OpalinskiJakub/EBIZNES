@@ -2,7 +2,7 @@
 
 :white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/4438ac05ca976a2549aae0b7a5c839c4c2205133)
 
-:x: 3,5 wymaganie 2
+:white_check_mark: 3,5 obraz ubuntu:24.02 z Javą w wersji 8 oraz Kotlinem [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/b24878e70e952bd70a180a8db15e606707a467bc)
 
 :x: 4.0 wymaganie 3 
 
@@ -15,9 +15,9 @@ Kod:
 
 **Zadanie 2** Scala
 
-:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/d2047b4ceab02af06c36db166a960398bdd645b7)
+:white_check_mark: 3.0 Należy stworzyć kontroler do Produktów [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/d2047b4ceab02af06c36db166a960398bdd645b7)
 
-:white_check_mark: 3.5 wymaganie 2 [Link do commita2 ](https://github.com/OpalinskiJakub/EBIZNES/commit/df0866fb0f839e8d9c4fd0e4d9b641a9ad5be199)
+:white_check_mark: 3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane pobierane z listy [Link do commita2 ](https://github.com/OpalinskiJakub/EBIZNES/commit/df0866fb0f839e8d9c4fd0e4d9b641a9ad5be199)
 
 :x: 4.0 wymaganie 3 [Link do commita 3]()
 
