@@ -26,4 +26,20 @@ Kod:
 :x: 5.0 wymaganie 5 [Link do commita 5]()
 
 
-Kod: 
+Kod:
+
+
+**Zadanie 3** Kotlin
+
+:white_check_mark: 3.0 Należy stworzyć kontroler do Produktów [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/e6a8c3a713e08eae0f2542c9156e52cf4fe6b89d)
+
+:x: 3.5 wymaganie 2 [Link do commita 3]()
+
+:x: 4.0 wymaganie 3 [Link do commita 3]()
+
+:x: 4.5 wymaganie 4 [Link do commita 4]()
+
+:x: 5.0 wymaganie 5 [Link do commita 5]()
+
+
+Kod:
