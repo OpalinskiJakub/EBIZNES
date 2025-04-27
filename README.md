@@ -53,7 +53,7 @@ miała kontroler Produktów zgodny z CRUD [Link do commita 1](https://github.com
 wykorzystać model do obsługi produktów (CRUD) w kontrolerze (zamiast
 listy) [Link do commita 2](https://github.com/OpalinskiJakub/EBIZNES/commit/16f731ee81c2765edd8aaee4fc641b7ed59a0411)
 
-:x: 4.0 wymaganie 3 [Link do commita 3]()
+:white_check_mark: 4.0 Należy dodać model Koszyka oraz dodać odpowiedni endpoint [Link do commita 3](https://github.com/OpalinskiJakub/EBIZNES/commit/082032c716a2da76d966fed2b109073fb06cdec0)
 
 :x: 4.5 wymaganie 4 [Link do commita 4]()
 
