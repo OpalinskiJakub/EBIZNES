@@ -49,7 +49,9 @@ Kod:
 :white_check_mark: 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie
 miała kontroler Produktów zgodny z CRUD [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/adf7306ae2bcff332712480b147ec20a20d3fa34)
 
-:x: 3.5 wymaganie 2 [Link do commita 3]()
+:white_check_mark: 3.5 Należy stworzyć model Produktów wykorzystując gorm oraz
+wykorzystać model do obsługi produktów (CRUD) w kontrolerze (zamiast
+listy) [Link do commita 2](https://github.com/OpalinskiJakub/EBIZNES/commit/16f731ee81c2765edd8aaee4fc641b7ed59a0411)
 
 :x: 4.0 wymaganie 3 [Link do commita 3]()
 
