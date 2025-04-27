@@ -47,7 +47,7 @@ Kod:
 **Zadanie 4** Go
 
 :white_check_mark: 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie
-miała kontroler Produktów zgodny z CRUD [Link do commita 1]()
+miała kontroler Produktów zgodny z CRUD [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/adf7306ae2bcff332712480b147ec20a20d3fa34)
 
 :x: 3.5 wymaganie 2 [Link do commita 3]()
 
