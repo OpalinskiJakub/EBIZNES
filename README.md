@@ -58,3 +58,19 @@ listy) [Link do commita 2](https://github.com/OpalinskiJakub/EBIZNES/commit/16f7
 :x: 4.5 wymaganie 4 [Link do commita 4]()
 
 :x: 5.0 wymaganie 5 [Link do commita 5]()
+
+
+**Zadanie 5** Frontend
+
+:white_check_mark: 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
+Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
+Produktach powinniśmy pobierać dane o produktach z aplikacji
+serwerowej; [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/ee8c66d8f8c1e929c3f0bc4d7d65adef5423c2fb)
+
+:x: 3.5 wymaganie 2 [Link do commita 3]()
+
+:x: 4.0 wymaganie 3 [Link do commita 3]()
+
+:x: 4.5 wymaganie 4 [Link do commita 4]()
+
+:x: 5.0 wymaganie 5 [Link do commita 5]()
