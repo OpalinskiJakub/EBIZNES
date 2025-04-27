@@ -43,3 +43,16 @@ Kod:
 
 
 Kod:
+
+**Zadanie 4** Go
+
+:white_check_mark: 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie
+miała kontroler Produktów zgodny z CRUD [Link do commita 1]()
+
+:x: 3.5 wymaganie 2 [Link do commita 3]()
+
+:x: 4.0 wymaganie 3 [Link do commita 3]()
+
+:x: 4.5 wymaganie 4 [Link do commita 4]()
+
+:x: 5.0 wymaganie 5 [Link do commita 5]()
