@@ -67,9 +67,10 @@ Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
 Produktach powinniśmy pobierać dane o produktach z aplikacji
 serwerowej; [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/ee8c66d8f8c1e929c3f0bc4d7d65adef5423c2fb)
 
-:x:  3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing [Link do commita 3]()
+:white_check_mark:  3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing [Link do commita 2](https://github.com/OpalinskiJakub/EBIZNES/commit/8b03494e0cae120e7cdeb62a454e439cfc7d96b4)
 
-:x: 4.0 wymaganie 3 [Link do commita 3]()
+:white_check_mark: 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za
+pomocą React hooks [Link do commita 3](https://github.com/OpalinskiJakub/EBIZNES/commit/8b03494e0cae120e7cdeb62a454e439cfc7d96b4)
 
 :x: 4.5 wymaganie 4 [Link do commita 4]()
 
