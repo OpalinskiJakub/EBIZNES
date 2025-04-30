@@ -67,7 +67,7 @@ Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
 Produktach powinniśmy pobierać dane o produktach z aplikacji
 serwerowej; [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/ee8c66d8f8c1e929c3f0bc4d7d65adef5423c2fb)
 
-:x: 3.5 wymaganie 2 [Link do commita 3]()
+:x:  3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing [Link do commita 3]()
 
 :x: 4.0 wymaganie 3 [Link do commita 3]()
 
