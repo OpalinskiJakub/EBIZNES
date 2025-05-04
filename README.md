@@ -79,12 +79,12 @@ pomocą React hooks [Link do commita 3](https://github.com/OpalinskiJakub/EBIZNE
 **Zadanie 6** Testy
 
 :white_check_mark: Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
-(Kotlin, Python, Java, JS, Go, Scala) [Link do commita 1]()
+(Kotlin, Python, Java, JS, Go, Scala) [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/a78005e874f7382f981dd594234294aa3f8383a6)
 
 :white_check_mark:  3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50
-asercji [Link do commita 2]()
+asercji [Link do commita 2](https://github.com/OpalinskiJakub/EBIZNES/commit/a78005e874f7382f981dd594234294aa3f8383a6)
 
-:x: 4 wymaganie 4 [Link do commita 4]()
+:x: 4 wymaganie 4 [Link do commita 3]()
 
 :x: 4.5 wymaganie 4 [Link do commita 4]()
 
