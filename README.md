@@ -11,7 +11,6 @@
 :x: 5.0 wymaganie 5 
 
 
-Kod: 
 
 **Zadanie 2** Scala
 
@@ -26,7 +25,6 @@ Kod:
 :x: 5.0 wymaganie 5 [Link do commita 5]()
 
 
-Kod:
 
 
 **Zadanie 3** Kotlin
@@ -42,7 +40,7 @@ Kod:
 :x: 5.0 wymaganie 5 [Link do commita 5]()
 
 
-Kod:
+
 
 **Zadanie 4** Go
 
@@ -58,6 +56,8 @@ listy) [Link do commita 2](https://github.com/OpalinskiJakub/EBIZNES/commit/16f7
 :x: 4.5 wymaganie 4 [Link do commita 4]()
 
 :x: 5.0 wymaganie 5 [Link do commita 5]()
+
+
 
 
 **Zadanie 5** Frontend
@@ -76,9 +76,12 @@ pomocą React hooks [Link do commita 3](https://github.com/OpalinskiJakub/EBIZNE
 
 :x: 5.0 wymaganie 5 [Link do commita 5]()
 
+
+
+
 **Zadanie 6** Testy
 
-:white_check_mark: Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
+:white_check_mark: 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
 (Kotlin, Python, Java, JS, Go, Scala) [Link do commita 1](https://github.com/OpalinskiJakub/EBIZNES/commit/a78005e874f7382f981dd594234294aa3f8383a6)
 
 :white_check_mark:  3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50
