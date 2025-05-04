@@ -75,3 +75,18 @@ pomocą React hooks [Link do commita 3](https://github.com/OpalinskiJakub/EBIZNE
 :x: 4.5 wymaganie 4 [Link do commita 4]()
 
 :x: 5.0 wymaganie 5 [Link do commita 5]()
+
+**Zadanie 6** Testy
+
+:white_check_mark: Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
+(Kotlin, Python, Java, JS, Go, Scala) [Link do commita 1]()
+
+:white_check_mark:  3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50
+asercji [Link do commita 2]()
+
+:x: 4 wymaganie 4 [Link do commita 4]()
+
+:x: 4.5 wymaganie 4 [Link do commita 4]()
+
+:x: 5.0 wymaganie 5 [Link do commita 5]()
+
