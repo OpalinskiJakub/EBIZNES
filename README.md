@@ -93,3 +93,20 @@ asercji [Link do commita 2](https://github.com/OpalinskiJakub/EBIZNES/commit/a78
 
 :x: 5.0 wymaganie 5 [Link do commita 5]()
 
+
+**Zadanie 7** Sonar
+
+:white_check_mark: 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w
+hookach gita [Link do commita 1](https://github.com/OpalinskiJakub/jakub-sonar-demo/tree/main/demos/3.0)
+
+:white_check_mark:  3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
+aplikacji serwerowej) [Link do commita 2](https://github.com/OpalinskiJakub/jakub-sonar-demo/tree/main/demos/3.5-4.0)
+
+:white_check_mark: 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
+aplikacji serwerowej) [Link do commita 3](https://github.com/OpalinskiJakub/jakub-sonar-demo/tree/main/demos/3.5-4.0)
+
+:white_check_mark: 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa
+w kodzie w Sonarze (kod aplikacji serwerowej) [Link do commita 4](https://github.com/OpalinskiJakub/jakub-sonar-demo/tree/main/demos/3.5-4.0)
+
+:x: 5.0 wymaganie 5 [Link do commita 5]()
+
